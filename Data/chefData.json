@@ -5,28 +5,31 @@
     "experience": 6,
     "recipes": [
       {
-        "recipeName": "Butter Chicken",
+        "recipeName": "Thali",
         "ingredients": [
-          "1 lb boneless, skinless chicken thighs, cut into bite-sized pieces",
-          "1 cup plain yogurt",
-          "1 tbsp garam masala",
-          "1 tsp ground cumin",
-          "1 tsp ground coriander",
-          "1/2 tsp turmeric",
-          "1/2 tsp cayenne pepper",
-          "1/2 tsp salt",
-          "3 tbsp unsalted butter",
-          "1 onion, finely chopped",
-          "3 garlic cloves, minced",
-          "1 tbsp grated fresh ginger",
-          "1 can (14.5 oz) diced tomatoes",
-          "1 cup heavy cream",
-          "1/4 cup chopped fresh cilantro"
+          "1 cup basmati rice",
+          "1/2 cup dal (lentils)",
+          "1/2 cup mixed vegetables (potatoes, carrots, beans, peas)",
+          "1/2 cup paneer (cottage cheese)",
+          "1/2 cup raita (yogurt with cucumber and tomato)",
+          "1/2 cup pickle",
+          "1/2 cup papadum (crispy lentil wafers)",
+          "1/2 cup chutney",
+          "1/2 cup salad (lettuce, cucumber, tomato, onion)",
+          "2 tbsp ghee or oil",
+          "1 tsp cumin seeds",
+          "1 tsp mustard seeds",
+          "1 tsp turmeric powder",
+          "1 tsp coriander powder",
+          "1 tsp cumin powder",
+          "1 tsp red chili powder",
+          "1 tsp garam masala",
+          "Salt to taste"
         ],
-        "cookingMethod": "1. In a large bowl, whisk together the yogurt, garam masala, cumin, coriander, turmeric, cayenne, and salt. Add the chicken and stir to coat.\n2. In a large skillet, melt the butter over medium heat. Add the onion and cook until softened, about 5 minutes.\n3. Add the garlic and ginger and cook for 1 minute.\n4. Add the chicken and marinade and cook, stirring occasionally, until the chicken is browned on all sides, about 8 minutes.\n5. Add the diced tomatoes and their juices, and bring to a simmer. Cook until the chicken is cooked through and the sauce has thickened slightly, about 10 minutes.\n6. Add the cream and cook until heated through, about 5 minutes.\n7. Serve hot, garnished with cilantro.",
+        "cookingMethod": "1. Rinse the rice and soak it in water for 30 minutes.\n2. Boil 2 cups of water in a saucepan and add the rice.\n3. Cover the saucepan and let it cook for 15-20 minutes or until the rice is tender and the water has evaporated.\n4. In a separate saucepan, boil the dal and mixed vegetables until they are soft and tender.\n5. In a frying pan, heat ghee or oil over medium heat and add cumin seeds and mustard seeds.\n6. When the seeds start to splutter, add turmeric powder, coriander powder, cumin powder, red chili powder, and garam masala.\n7. Mix well and cook for a few minutes until the spices are fragrant.\n8. Add paneer and cook for a few more minutes until the paneer is golden brown.\n9. Add salt to taste.\n10. Serve hot with rice, dal, mixed vegetables, raita, pickle, papadum, chutney, and salad.",
         "rating": 4.5,
         "favoriteButton": false,
-        "image": "https://example.com/panipuri.jpg"
+        "image": "https://i.ibb.co/2MbJ4sG/thali.webp"
       },
       {
         "recipeName": "Chana Masala",
@@ -49,34 +52,28 @@
         "cookingMethod": "1. In a large skillet, heat the oil over medium-high heat. Add the onion and cook until softened, about 5 minutes.\n2. Add the garlic and ginger and cook for 1 minute.\n3. Add the cumin, coriander, cinnamon, turmeric, and cayenne, and cook for 1 minute.\n4. Add the chickpeas, diced tomatoes (with their juices), water, and salt. Bring to a simmer and cook until the sauce has thickened slightly and the flavors have melded, about 15 minutes.\n5. Serve hot, garnished with cilantro.",
         "rating": 4.7,
         "favoriteButton": true,
-        "image": "https://example.com/panipuri.jpg"
+        "image": "https://i.ibb.co/M57Jss2/chana-masala.webp"
       },
       {
-        "recipeName": "Palak Paneer",
+        "recipeName": "Gulab Jamun",
         "ingredients": [
-          "1 lb paneer, cut into 1-inch cubes",
-          "1/2 cup vegetable oil",
-          "1 large onion, chopped",
-          "3 garlic cloves, minced",
-          "1 tbsp grated fresh ginger",
-          "1 tsp ground cumin",
-          "1 tsp ground coriander",
-          "1/2 tsp ground turmeric",
-          "1/2 tsp cayenne pepper",
-          "2 lbs fresh spinach, washed and chopped",
-          "1/2 cup water",
-          "1/2 cup heavy cream",
-          "Salt, to taste"
+          "1 cup milk powder",
+          "1/4 cup all-purpose flour",
+          "1/4 tsp baking powder",
+          "1 tbsp ghee",
+          "1/4 cup milk, or as needed",
+          "2 cups sugar",
+          "2 cups water",
+          "1/2 tsp rose water"
         ],
-        "cookingMethod": "1. Heat the oil in a large skillet over medium heat. Add the paneer cubes and fry until golden brown on all sides. Remove from the skillet and set aside.\n2. In the same skillet, add the onion and cook until softened, about 5 minutes.\n3. Add the garlic, ginger, cumin, coriander, turmeric, and cayenne, and cook for 1 minute.\n4. Add the spinach and water, and stir until the spinach has wilted. Cover and cook until the spinach is completely wilted and the mixture is thick, about 10 minutes.\n5. Using an immersion blender or transferring to a blender, puree the spinach mixture until smooth. Return the mixture to the skillet.\n6. Add the heavy cream and stir until heated through.\n7. Add the paneer cubes back to the skillet and stir until coated in the sauce. Cook for an additional 5 minutes until heated through.\n8. Add salt to taste.\n9. Serve hot with rice or naan bread.",
-        "rating": 4.8,
+        "cookingMethod": "1. In a mixing bowl, combine milk powder, all-purpose flour, and baking powder.\n2. Add ghee and mix well to form a crumbly mixture.\n3. Slowly add milk, a little at a time, and knead the mixture into a smooth dough.\n4. Cover the dough and let it rest for 10 minutes.\n5. In a saucepan, combine sugar and water and bring to a boil over medium heat.\n6. Reduce heat to low and let the syrup simmer for 5 minutes.\n7. Add rose water to the syrup and mix well.\n8. Heat oil in a deep frying pan over medium heat.\n9. Divide the dough into small balls and shape them into smooth rounds.\n10. Fry the balls in hot oil until they turn golden brown.\n11. Remove the fried balls from the oil and transfer them to the syrup.\n12. Let the balls soak in the syrup for at least 30 minutes before serving.",
+        "rating": 4.7,
         "favoriteButton": true,
-        "image": "https://example.com/panipuri.jpg"
+        "image": "https://i.ibb.co/0JVgC2s/gulab-jamun.webp"
       }
     ],
     "likes": 1000,
-    "chefPicture": "https://example.com/maria-rodriguez.jpg",
-    "viewRecipesButton": "https://example.com/maria-rodriguez/recipes"
+    "chefPicture": "https://i.ibb.co/Jn8N9G1/vkhanna.webp"
   },
   {
     "id": 2,
@@ -96,7 +93,7 @@
         "cookingMethod": "1. In a large bowl, combine the whole wheat flour, salt, and oil. Mix well.\n2. Gradually add the water and knead the dough for 5 minutes until it is smooth and elastic.\n3. Cover the dough with a damp cloth and let it rest for 15 minutes.\n4. Divide the dough into 10-12 equal portions and shape each portion into a ball.\n5. Roll each ball out on a floured surface into a thin, flat circle.\n6. Brush the top of each circle with melted butter.\n7. Fold the circle in half, then brush the top with more melted butter.\n8. Fold the circle in half again to form a triangle.\n9. Roll the triangle out into a thin, flat triangle shape.\n10. Heat a griddle or a non-stick pan over medium heat. Cook each paratha for about 1 minute on each side, until lightly browned.\n11. Brush each paratha with more melted butter as it cooks.\n12. Serve hot with curry or chutney.",
         "rating": 4.5,
         "favoriteButton": false,
-        "image": "https://example.com/panipuri.jpg"
+        "image": "https://i.ibb.co/L6yPngT/paratha.webp"
       },
       {
         "recipeName": "Samosas",
@@ -118,7 +115,7 @@
         "cookingMethod": "1. In a large bowl, combine the all-purpose flour, salt, and vegetable oil. Mix well.\n2. Gradually add the water and knead the dough for 5 minutes until it is smooth and elastic.\n3. Cover the dough with a damp cloth and let it rest for 15 minutes.\n4. In a separate bowl, mix together the mashed potatoes, green peas, cumin seeds, coriander powder, garam masala, dried mango powder, red chili powder, and salt.\n5. Divide the dough into 8-10 equal portions and shape each portion into a ball.\n6. Roll each ball out on a floured surface into a thin, flat circle.\n7. Cut each circle in half.\n8. Take one half of the circle and form it into a cone shape, pinching the edges together to seal.\n9. Fill the cone with 1-2 tablespoons of the potato mixture.\n10. Seal the top of the cone with a pinch.\n11. Heat vegetable oil in a deep frying pan or wok over medium-high heat.\n12. Fry the samosas in batches for 3-4 minutes on each side, until golden brown.\n13. Drain on paper towels and serve hot with chutney.",
         "rating": 4.7,
         "favoriteButton": true,
-        "image": "https://example.com/panipuri.jpg"
+        "image": "https://i.ibb.co/qWGYHcb/samosas.webp"
       },
       {
         "recipeName": "Pani Puri",
@@ -143,12 +140,11 @@
         "cookingMethod": "1. In a large bowl, combine the semolina, salt, and baking soda. Mix well.\n2. Gradually add water and knead the dough for 5-7 minutes until it is smooth and elastic.\n3. Cover the dough with a damp cloth and let it rest for 30 minutes.\n4. Divide the dough into small equal portions and roll each portion into a small circle.\n5. Heat oil in a deep frying pan over medium-high heat. Fry the circles until they are puffed up and lightly golden brown. Drain on paper towels.\n6. Make a small hole in each puri.\n7. Mix the chickpeas, mashed potatoes, onion, tomatoes, coriander leaves, chaat masala, cumin powder, red chili powder, and black salt in a bowl.\n8. Stuff each puri with the chickpea mixture.\n9. Mix the tamarind chutney, mint-coriander chutney, and water in a separate bowl to make the pani (water) for the puris.\n10. Dip each stuffed puri into the pani and enjoy!",
         "rating": 4.9,
         "favoriteButton": true,
-        "image": "https://example.com/panipuri.jpg"
+        "image": "https://i.ibb.co/h8KKpnM/panipuri.webp"
       }
     ],
     "likes": 900,
-    "chefPicture": "https://example.com/maria-rodriguez.jpg",
-    "viewRecipesButton": "https://example.com/maria-rodriguez/recipes"
+    "chefPicture": "https://i.ibb.co/q0c3X35/vicky.webp"
   },
   {
     "id": 3,
@@ -178,7 +174,7 @@
         "cookingMethod": "1. In a large mixing bowl, combine the all-purpose flour, salt, and baking soda. Add ghee and mix well. Gradually add water and knead the dough for 5-7 minutes until it is smooth and elastic. Cover the dough with a damp cloth and let it rest for 30 minutes.\n2. Wash and soak the yellow split peas for at least 4 hours or overnight.\n3. In a blender or food processor, grind the yellow split peas with cumin seeds, coriander seeds, fennel seeds, red chili powder, garam masala, asafoetida, and salt. Do not add water, the mixture should be dry.\n4. In a pan, heat 1 tablespoon of oil over medium heat. Add the chopped onions and sauté until they are translucent. Add the ground mixture and cook until it becomes a dry mixture.\n5. Take a small portion of the dough and flatten it into a small circle. Put a small portion of the mixture in the center and seal it properly. Flatten it slightly and repeat with the remaining dough and mixture.\n6. Heat oil in a deep frying pan over medium-high heat. Fry the kachoris until they are puffed up and lightly golden brown. Drain on paper towels.\n7. Serve hot with tamarind chutney or mint-coriander chutney.",
         "rating": 4.7,
         "favoriteButton": false,
-        "image": "https://example.com/kachori.jpg"
+        "image": "https://i.ibb.co/Qrj53hn/kachori.webp"
       },
       {
         "recipeName": "Matar Kulcha",
@@ -205,7 +201,7 @@
         "cookingMethod": "1. Wash and soak the dried white peas for at least 4 hours or overnight. Drain the water.\n2. In a pressure cooker, add the soaked peas, water, turmeric powder, red chili powder, cumin powder, coriander powder, garam masala, salt, and oil. Mix well and pressure cook for 3-4 whistles or until the peas are soft and cooked.\n3. In a pan, heat oil over medium heat. Add cumin seeds and let them splutter. Add chopped onions and sauté until they are golden brown. Add ginger, garlic, and green chilies. Sauté for a minute.\n4. Add chopped tomatoes and cook until they are soft and mushy. Add the cooked peas and mix well. Cook for 5-7 minutes on medium heat.\n5. Garnish with chopped onions and coriander leaves.\n6. Serve hot with kulchas.",
         "rating": 4.5,
         "favoriteButton": false,
-        "image": "https://example.com/matar-kulcha.jpg"
+        "image": "https://i.ibb.co/9NKprt9/materkulcha.webp"
       },
       {
         "recipeName": "Vada Pav",
@@ -230,12 +226,11 @@
         "cookingMethod": "1. In a bowl, mix mashed potatoes, red chili powder, cumin powder, coriander powder, turmeric powder, and salt.\n2. In another bowl, mix gram flour, rice flour, baking soda, and salt. Add water little by little to make a smooth batter.\n3. Heat oil in a pan for deep frying.\n4. Take a small portion of potato mixture and shape it into a ball. Dip it in the batter and coat it well. Drop it in hot oil and fry until it turns golden brown. Remove and drain excess oil on a paper towel.\n5. Slice pav buns horizontally in the middle.\n6. Spread garlic chutney on one side and green chutney on the other side of the bun.\n7. Place a vada in the center of the bun.\n8. Add tamarind chutney, chopped onions, and coriander leaves.\n9. Close the bun and press it slightly.\n10. Serve hot with chutneys and fried green chilies.",
         "rating": 4.7,
         "favoriteButton": true,
-        "image": "https://example.com/vada-pav.jpg"
+        "image": "https://i.ibb.co/dLgV3b1/vadapav.webp"
       }
     ],
     "likes": 900,
-    "chefPicture": "https://example.com/maria-rodriguez.jpg",
-    "viewRecipesButton": "https://example.com/maria-rodriguez/recipes"
+    "chefPicture": "https://i.ibb.co/V90cFBj/sanjeev-kapoor.webp"
   },
   {
     "id": 4,
@@ -263,7 +258,7 @@
         "cookingMethod": "1. In a bowl, mix chicken pieces with yogurt, ginger garlic paste, red chili powder, coriander powder, cumin powder, turmeric powder, garam masala powder, and salt. Let it marinate for at least 30 minutes.\n2. Heat oil in a pan and saute onions until golden brown. Add capsicum and saute for 2-3 minutes.\n3. Add marinated chicken and cook until tender.\n4. Take chapatis or parathas and place chicken mixture on one side.\n5. Roll it tightly and wrap with aluminum foil.\n6. Heat a griddle or tawa and place the wrapped roll on it. Cook for 2-3 minutes on each side until crispy.\n7. Unwrap and garnish with chopped coriander leaves.\n8. Serve hot with ketchup or mint chutney.",
         "rating": 4.5,
         "favoriteButton": false,
-        "image": "https://example.com/kathi-rolls.jpg"
+        "image": "https://i.ibb.co/gR7ntNB/kathirolls.webp"
       },
       {
         "recipeName": "Pakora",
@@ -285,7 +280,7 @@
         "cookingMethod": "1. In a large mixing bowl, add chickpea flour, red chili powder, coriander powder, turmeric powder, cumin powder, garam masala powder, and salt. Mix well.\n2. Add sliced onions, potatoes, green chilies, and chopped coriander leaves. Mix well.\n3. Gradually add water to the mixture and mix well to form a thick batter.\n4. Heat oil in a deep frying pan.\n5. Using a spoon or your hands, drop small portions of the mixture into the hot oil and fry until golden brown.\n6. Drain excess oil on a paper towel.\n7. Serve hot with mint chutney or ketchup.",
         "rating": 4.2,
         "favoriteButton": true,
-        "image": "https://example.com/pakora.jpg"
+        "image": "https://i.ibb.co/kMT1LcG/pakora.webp"
       },
       {
         "recipeName": "Chicken 65",
@@ -310,17 +305,16 @@
         "cookingMethod": "1. In a mixing bowl, add chicken pieces, yogurt, ginger garlic paste, red chili powder, coriander powder, cumin powder, turmeric powder, garam masala powder, and salt. Mix well and let it marinate for at least 30 minutes.\n2. In another bowl, mix corn flour and all-purpose flour.\n3. Heat oil in a deep frying pan.\n4. Coat marinated chicken pieces with flour mixture and fry in hot oil until crispy and golden brown.\n5. Drain excess oil on a paper towel.\n6. In a separate pan, heat 1 tbsp oil and saute curry leaves, green chilies, and onion until onion turns translucent.\n7. Add fried chicken to the pan and stir well.\n8. Garnish with chopped coriander leaves.\n9. Serve hot as an appetizer or with rice or roti.",
         "rating": 4.6,
         "favoriteButton": false,
-        "image": "https://example.com/chicken-65.jpg"
+        "image": "https://i.ibb.co/1QvnhMM/chicken65.webp"
       }
     ],
     "likes": 800,
-    "chefPicture": "https://example.com/maria-rodriguez.jpg",
-    "viewRecipesButton": "https://example.com/maria-rodriguez/recipes"
+    "chefPicture": "https://i.ibb.co/f4C0Bbh/pankaj-bhadouria.webp"
   },
   {
     "id": 5,
-    "chefName": "Vineet Bhatia",
-    "experience": 9,
+    "chefName": "Kunal Kapur",
+    "experience": 5,
     "recipes": [
       {
         "recipeName": "Sambar",
@@ -343,7 +337,7 @@
         "cookingMethod": "1. Pressure cook toor dal with water and turmeric powder for 3-4 whistles.\n2. Heat oil in a pan.\n3. Add mustard seeds, cumin seeds, and fenugreek seeds. Let them splutter.\n4. Add chopped onion and sauté until translucent.\n5. Add chopped tomato and sauté until it turns mushy.\n6. Add sambar powder and mix well.\n7. Add mixed vegetables and sauté for 2-3 minutes.\n8. Add tamarind juice and salt. Mix well and let it boil.\n9. Add cooked dal and mix well.\n10. Let it simmer for 10-15 minutes until vegetables are cooked and sambar reaches desired consistency.\n11. Garnish with chopped coriander leaves.\n12. Serve hot with rice or idli.",
         "rating": 4.8,
         "favoriteButton": true,
-        "image": "https://example.com/sambar.jpg"
+        "image": "https://i.ibb.co/kKrzqm4/sambar.webp"
       },
       {
         "recipeName": "Tandoori Chicken",
@@ -367,7 +361,7 @@
         "cookingMethod": "1. Make 2-3 deep cuts in each chicken drumstick.\n2. Mix yogurt, ginger paste, garlic paste, lemon juice, garam masala, paprika, cumin powder, coriander powder, turmeric powder, cayenne pepper, salt, and black pepper in a bowl.\n3. Add chicken drumsticks to the bowl and coat them with the marinade. Cover and refrigerate for at least 2 hours or overnight.\n4. Preheat oven to 425°F (220°C).\n5. Line a baking sheet with aluminum foil and brush with oil.\n6. Arrange marinated chicken drumsticks on the baking sheet, leaving some space between them.\n7. Brush chicken drumsticks with oil.\n8. Bake in preheated oven for 30-35 minutes until chicken is cooked through and skin is crispy.\n9. Garnish with lemon wedges and onion rings.\n10. Serve hot with mint chutney and naan.",
         "rating": 4.9,
         "favoriteButton": true,
-        "image": "https://example.com/tandoori-chicken.jpg"
+        "image": "https://i.ibb.co/jvHdG7X/tandori.webp"
       },
       {
         "recipeName": "Butter Chicken",
@@ -397,12 +391,11 @@
         "cookingMethod": "1. Mix yogurt, ginger paste, garlic paste, lemon juice, garam masala, paprika, cumin powder, coriander powder, turmeric powder, cayenne pepper, salt, and black pepper in a bowl.\n2. Add chicken pieces to the bowl and coat them with the marinade. Cover and refrigerate for at least 2 hours or overnight.\n3. Melt butter in a large skillet over medium heat.\n4. Add onion, garlic, and ginger to the skillet and sauté until onion is soft and translucent.\n5. Add marinated chicken pieces to the skillet and cook until browned on all sides.\n6. Add tomato sauce and bring to a simmer. Reduce heat to low and cook for 10-15 minutes until chicken is cooked through.\n7. Add heavy cream and dried fenugreek leaves to the skillet and stir well.\n8. Simmer for another 5 minutes until the sauce has thickened.\n9. Garnish with chopped cilantro.\n10. Serve hot with rice or naan.",
         "rating": 4.8,
         "favoriteButton": true,
-        "image": "https://example.com/butter-chicken.jpg"
+        "image": "https://i.ibb.co/gPhTgwn/butter-chicken.webp"
       }
     ],
     "likes": 800,
-    "chefPicture": "https://example.com/maria-rodriguez.jpg",
-    "viewRecipesButton": "https://example.com/maria-rodriguez/recipes"
+    "chefPicture": "https://i.ibb.co/YQvyGZL/kunal-kapoor.webp"
   },
   {
     "id": 6,
@@ -444,7 +437,7 @@
         "cookingMethod": "1. In a large mixing bowl, combine crumbled paneer, mashed potatoes, bread crumbs, cornstarch, cashews, raisins, garam masala, cumin powder, coriander powder, red chili powder, and salt.\n2. Mix well and form small balls from the mixture.\n3. Heat oil in a deep-frying pan over medium heat.\n4. Fry the balls until golden brown and crisp on all sides.\n5. Drain on paper towels and set aside.\n6. For the gravy, heat butter in a large saucepan over medium heat.\n7. Add onion and sauté until soft and translucent.\n8. Add tomatoes, ginger paste, garlic paste, garam masala, cumin powder, coriander powder, red chili powder, and turmeric powder. Cook until tomatoes are soft and mushy.\n9. Remove from heat and let it cool down.\n10. Blend the mixture in a blender to a smooth paste.\n11. Strain the paste through a fine-mesh strainer back into the same pan.\n12. Add heavy cream, sugar, and salt to the pan and mix well.\n13. Bring the gravy to a simmer over low heat.\n14. Add the fried koftas to the gravy and let them simmer for a few minutes.\n15. Garnish with chopped cilantro and serve hot with rice or naan.",
         "rating": 4.9,
         "favoriteButton": true,
-        "image": "https://example.com/malai-kofta.jpg"
+        "image": "https://i.ibb.co/PmLy0YM/malai-kofta.webp"
       },
       {
         "recipeName": "Rogan Josh",
@@ -472,7 +465,7 @@
         "cookingMethod": "1. Heat ghee in a large saucepan over medium heat.\n2. Add onions and sauté until soft and golden brown.\n3. Add ginger paste and garlic paste and sauté for a few minutes.\n4. Add lamb and sauté until browned on all sides.\n5. Add coriander powder, cumin powder, red chili powder, turmeric powder, garam masala, fennel seeds, bay leaf, cloves, green cardamom pods, and cinnamon stick.\n6. Mix well and cook for a few minutes until the spices are fragrant.\n7. Add tomato puree and cook for 5-7 minutes or until the oil separates from the mixture.\n8. Add yogurt and mix well.\n9. Add enough water to cover the lamb and bring the mixture to a boil.\n10. Reduce heat to low and let it simmer for 45-60 minutes or until the lamb is tender.\n11. Adjust salt to taste.\n12. Garnish with chopped cilantro and serve hot with rice or naan.",
         "rating": 4.8,
         "favoriteButton": true,
-        "image": "https://example.com/rogan-josh.jpg"
+        "image": "https://i.ibb.co/d63zj3H/rogan-josh.webp"
       },
       {
         "recipeName": "Biryani",
@@ -501,11 +494,10 @@
         "cookingMethod": "1. Rinse rice and soak it in water for 30 minutes.\n2. Heat ghee in a large saucepan over medium heat.\n3. Add onions and sauté until soft and golden brown.\n4. Add ginger paste and garlic paste and sauté for a few minutes.\n5. Add chicken or lamb and sauté until browned on all sides.\n6. Add coriander powder, cumin powder, red chili powder, turmeric powder, garam masala, green cardamom pods, cloves, cinnamon stick, and bay leaf.\n7. Mix well and cook for a few minutes until the spices are fragrant.\n8. Add chopped tomatoes and cook until the tomatoes are soft and pulpy.\n9. Add yogurt and mix well.\n10. Add chopped mint leaves and cilantro.\n11. Drain the soaked rice and add it to the saucepan.\n12. Add enough water to cover the rice and bring the mixture to a boil.\n13. Reduce heat to low, cover the saucepan, and let it cook for 20-25 minutes or until the rice is tender and the water has evaporated.\n14. Adjust salt to taste.\n15. Serve hot with raita and papadum.",
         "rating": 4.9,
         "favoriteButton": true,
-        "image": "https://example.com/biryani.jpg"
+        "image": "https://i.ibb.co/p2xp7xx/biryani.webp"
       }
     ],
     "likes": 1500,
-    "chefPicture": "https://example.com/maria-rodriguez.jpg",
-    "viewRecipesButton": "https://example.com/maria-rodriguez/recipes"
+    "chefPicture": "https://i.ibb.co/wrkccHX/anahita.jpg"
   }
 ]
