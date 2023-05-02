@@ -16,6 +16,12 @@ app.get('/chefdata', (req, res) => {
     res.send(chefData)
 })
 
+app.get('/chefdata/:id', (req, res) => {
+    const id = req.params.id;
+    const singleData = chefData.find(data => data.id == id);
+    res.send(singleData)
+})
+
 app.listen(port, () => {
   console.log(`food wise server running on port:${port}`);
 });
