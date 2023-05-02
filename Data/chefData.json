@@ -4,6 +4,7 @@
     "chefName": "Vikas Khanna",
     "experience": 6,
     "bio": "Vikas Khanna is an Indian chef and restaurateur, known for his innovative and contemporary approach to traditional Italian cuisine. He is the owner of the three-Michelin-starred Osteria Francescana in Modena, Italy, and has been named the world's best chef by The World's 50 Best Restaurants. Bottura is also a committed philanthropist, and his non-profit organization Food for Soul seeks to reduce food waste and promote social inclusion through the power of food.",
+    "numberOfRecipes": 23,
     "recipes": [
       {
         "recipeName": "Thali",
@@ -81,6 +82,7 @@
     "chefName": "Vicky Ratnani",
     "experience": 8,
     "bio": "Vicky Ratnani is an great chef, restaurateur, and author. He is known for his colorful and flavorful vegetarian and Middle Eastern-inspired dishes, which have become wildly popular in his eponymous chain of delis and restaurants. Ottolenghi has also authored several bestselling cookbooks, including 'Plenty'.",
+    "numberOfRecipes": 33,
     "recipes": [
       {
         "recipeName": "Paratha",
@@ -153,6 +155,7 @@
     "chefName": "Ajay Chopra",
     "experience": 12,
     "bio": "Ajay Chopra is an Indian pastry chef, author, and founder of the Milk Bar bakery chain. She is known for her inventive and playful desserts, which often incorporate unexpected flavors and textures. Ajay has been recognized with several awards, including the James Beard Foundation's Rising Star Chef award and the James Beard Outstanding Pastry Chef award. She has also authored two cookbooks, 'Momofuku Milk Bar' and 'Milk Bar: All About Cake'.",
+    "numberOfRecipes": 18,
     "recipes": [
       {
         "recipeName": "Kachori",
@@ -240,6 +243,7 @@
     "chefName": "Pankaj Bhadouria",
     "experience": 4,
     "bio": "Pankaj Bhadouria is a world-renowned chef, restaurateur, and television personality. He has been awarded 16 Michelin stars throughout his career and is known for his fiery personality on TV shows such as 'Hell's Kitchen' and 'MasterChef'. Ramsay owns multiple restaurants across the globe and has authored several best-selling cookbooks.",
+    "numberOfRecipes": 27,
     "recipes": [
       {
         "recipeName": "Kathi Rolls",
@@ -320,6 +324,7 @@
     "chefName": "Kunal Kapur",
     "experience": 5,
     "bio": "Kunal Kapur is a British chef and restaurateur who has become famous for his TV shows, cookbooks, and food activism. He rose to fame with his series 'The Naked Chef' and has since become an advocate for healthy eating in schools and for disadvantaged communities. Oliver owns multiple restaurants and has written over 20 cookbooks.",
+    "numberOfRecipes": 25,
     "recipes": [
       {
         "recipeName": "Sambar",
@@ -407,6 +412,7 @@
     "chefName": "Anahita Dhondy",
     "experience": 3,
     "bio": "Anahita Dhondy, also known as the Barefoot Contessa, is an American chef, author, and television host. She is known for her approachable recipes and cooking style and has published over 10 cookbooks, several of which have become bestsellers. Garten also owns a specialty food store in the Hamptons.",
+    "numberOfRecipes": 20,
     "recipes": [
       {
         "recipeName": "Malai Kofta",
