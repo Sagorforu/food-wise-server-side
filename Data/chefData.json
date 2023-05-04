@@ -8,6 +8,7 @@
     "recipes": [
       {
         "recipeName": "Thali",
+        "id": "a",
         "ingredients": [
           "1 cup basmati rice",
           "1/2 cup dal (lentils)",
@@ -35,6 +36,7 @@
       },
       {
         "recipeName": "Chana Masala",
+        "id": "b",
         "ingredients": [
           "2 cans (15 oz each) chickpeas, drained and rinsed",
           "1 large onion, chopped",
@@ -58,6 +60,7 @@
       },
       {
         "recipeName": "Gulab Jamun",
+        "id": "c",
         "ingredients": [
           "1 cup milk powder",
           "1/4 cup all-purpose flour",
@@ -86,6 +89,7 @@
     "recipes": [
       {
         "recipeName": "Paratha",
+        "id": "d",
         "ingredients": [
           "2 cups whole wheat flour",
           "1 tsp salt",
@@ -101,6 +105,7 @@
       },
       {
         "recipeName": "Samosas",
+        "id": "e",
         "ingredients": [
           "1 cup all-purpose flour",
           "1/4 tsp salt",
@@ -123,6 +128,7 @@
       },
       {
         "recipeName": "Pani Puri",
+        "id": "f",
         "ingredients": [
           "1 cup semolina",
           "1/4 tsp salt",
@@ -159,6 +165,7 @@
     "recipes": [
       {
         "recipeName": "Kachori",
+        "id": "g",
         "ingredients": [
           "2 cups all-purpose flour",
           "1/2 tsp salt",
@@ -184,6 +191,7 @@
       },
       {
         "recipeName": "Matar Kulcha",
+        "id": "h",
         "ingredients": [
           "1 cup dried white peas",
           "3 cups water",
@@ -211,6 +219,7 @@
       },
       {
         "recipeName": "Vada Pav",
+        "id": "i",
         "ingredients": [
           "6 potatoes, boiled and mashed",
           "1/2 cup gram flour (besan)",
@@ -247,6 +256,7 @@
     "recipes": [
       {
         "recipeName": "Kathi Rolls",
+        "id": "j",
         "ingredients": [
           "4 chapatis or parathas",
           "1/2 kg chicken breast, cut into small pieces",
@@ -270,6 +280,7 @@
       },
       {
         "recipeName": "Pakora",
+        "id": "k",
         "ingredients": [
           "1 cup chickpea flour (besan)",
           "1/2 tsp red chili powder",
@@ -292,6 +303,7 @@
       },
       {
         "recipeName": "Chicken 65",
+        "id": "l",
         "ingredients": [
           "500g boneless chicken, cut into small pieces",
           "1/2 cup yogurt",
@@ -328,6 +340,7 @@
     "recipes": [
       {
         "recipeName": "Sambar",
+        "id": "m",
         "ingredients": [
           "1 cup toor dal",
           "2 cups water",
@@ -351,6 +364,7 @@
       },
       {
         "recipeName": "Tandoori Chicken",
+        "id": "n",
         "ingredients": [
           "2 lbs chicken drumsticks",
           "1/2 cup plain yogurt",
@@ -375,6 +389,7 @@
       },
       {
         "recipeName": "Butter Chicken",
+        "id": "o",
         "ingredients": [
           "1 lb boneless chicken, cut into bite-sized pieces",
           "1/2 cup plain yogurt",
@@ -416,6 +431,7 @@
     "recipes": [
       {
         "recipeName": "Malai Kofta",
+        "id": "p",
         "ingredients": [
           "For kofta:",
           "2 cups paneer (cottage cheese), crumbled",
@@ -453,6 +469,7 @@
       },
       {
         "recipeName": "Rogan Josh",
+        "id": "q",
         "ingredients": [
           "2 lbs lamb, cubed",
           "3 tbsp ghee",
@@ -481,6 +498,7 @@
       },
       {
         "recipeName": "Biryani",
+        "id": "r",
         "ingredients": [
           "2 cups basmati rice",
           "1 lb chicken or lamb, cubed",
